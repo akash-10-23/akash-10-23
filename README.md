@@ -1,5 +1,7 @@
 <h1 align = "center"> Hi there, I'm Akash <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"></h1>
 
+<img src="./assets/anime-asta.gif" align="right" width="300"/>
+
 - 🔭 I’m currently working on **Web Apps**
 - 🌱 I’m currently learning **ReactJS**
 - 👯 I’m looking to collaborate on **MERN** based Web apps
