@@ -34,8 +34,8 @@
 <h2 align="left"><img src='./assets/github-wavy.gif' width='25px'> My Github Stats:</h2>
 
 <p align="center">
-  
-  <img src = "https://activity-graph.herokuapp.com/graph?username=akash-10-23&theme=react-dark&hide_border=true&area=true" width = 800>
+<!--   
+  <img src = "https://activity-graph.herokuapp.com/graph?username=akash-10-23&theme=react-dark&hide_border=true&area=true" width = 800> -->
   <img src = "https://github-readme-stats.vercel.app/api?username=akash-10-23&show_icons=true&theme=dark&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=akash-10-23&theme=dark&hide_border=true" width = 400> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-10-23&hide=Jupyter Notebook&layout=compact&theme=dark&hide_border=true"/>
