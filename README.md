@@ -41,3 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-10-23&hide=Jupyter Notebook&layout=compact&theme=dark&hide_border=true"/>
   
 </p>
+
+<br/>
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=akash-10-23.akash-10-23)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
