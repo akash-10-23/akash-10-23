@@ -9,7 +9,10 @@
 - ⚡ Fun fact: Laziness is such an ugly word... I prefer... **Selective Participation😉**
 
 <br/>
-
+<br/>                        
+                                               
+                                               
+                                               
 <h2 align="left">🔧 Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
