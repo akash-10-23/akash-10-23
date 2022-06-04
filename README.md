@@ -1,6 +1,6 @@
-<h1 align = "center"> Hi there, I'm Akash <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"></h1>
+<h1 align = "center"> Hi there, I'm Akash <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px" height="35px"></h1>
 
-<!-- <img src="./assets/anime-asta.gif" align="right" width="300"/> -->
+<img src="./assets/anime-asta.gif" align="right" width="300"/>
 
 - 🔭 I’m currently working on **Web Apps**
 - 🌱 I’m currently learning **ReactJS**
@@ -31,7 +31,7 @@
 
 <br/>
 
-<h2 align="left"><img src='./assets/github-wavy.gif' width='25px'> My Github Stats:</h2>
+<h2 align="left"><img src='./assets/github-wavy.gif' width='25px' height="35px"> My Github Stats:</h2>
 
 <p align="center">
 <!--   
