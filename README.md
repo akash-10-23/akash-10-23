@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on **Web Apps**
 - 🌱 I’m currently learning <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="20" height="20" /> **Angular** 
 <!-- - 👯 I’m looking to collaborate on **MERN** based Web apps -->
-- 📫 How to reach me: [vermaakashratan232@gmail.com](mailto:vermaakashratan232@gmail.com)
+- 📫 How to reach me: [LinkedIn/akash-ratan-verma-2320](www.linkedin.com/in/akash-ratan-verma-2320)
+<!-- -- [vermaakashratan232@gmail.com](mailto:vermaakashratan232@gmail.com) -->
 - ⚡ Fun fact: Laziness is such an ugly word... I prefer... **Selective Participation😉**
 
 <br/>
